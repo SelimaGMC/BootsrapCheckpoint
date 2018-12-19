@@ -1,0 +1,23 @@
+body{font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+padding-bottom:250px}
+h3{color:forestgreen;
+font-weight:bold;
+font-size:40px}
+.SocialMedias , .name, .job{text-align:center}
+#social{margin-left:5px;
+    margin-top:-90px;
+padding:5px;
+top:-100px}
+#social:hover{color:grey}
+.job{font-size:30px;
+color:rgb(80, 80, 80)}
+i:hover{color:forestgreen;
+transform:rotate(360deg);
+transition: transform 0.5s;}
+.texxt:hover{color:forestgreen}
+.name:hover{font-style:italic}
+.text{margin-top: .2em;}
+.fa-stack{height:auto;
+width:auto;
+line-height:none;}
+
